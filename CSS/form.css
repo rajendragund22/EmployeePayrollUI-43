@@ -189,6 +189,9 @@ select {
         .row-content {
             flex-direction: column;
         }
+        .uploadButton{
+            justify-content: column;
+        }
 
         .profile-radio-content {
             flex-flow: wrap;
@@ -211,3 +214,4 @@ select {
             flex-direction: column-reverse;
             align-items: flex-start;
         }
+    }
